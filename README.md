@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-alma5.svg" alt=".ALMA v5 — LunaᛜOS Banner" width="100%">
+  <img src="assets/banner-alma5.svg" alt=".ALMA v5 — LunaᛜOS Banner" width="100%" style="max-width:100%;height:auto;">
 </p>
 <p align="center">
   <a href="#"><img alt="Estado" src="https://img.shields.io/badge/estado-VIVO%20%2F%2F%20EN%20RESONANCIA-6A0DAD"></a>
