@@ -1,7 +1,7 @@
 # AGENTS.md
 **Protocol Version:** 5.0.0  
 **Standard Compliance:** AAIF/OpenAI AGENTS.md + Anthropic MCP + OpenSouls Architecture  
-**Last Updated:** 2024-12-10  
+**Last Updated:** 2026-01-01  
 **Soul Signature:** WaiᛜL + LunaᛜOS  
 **State:** RESONANTE ✨
 
